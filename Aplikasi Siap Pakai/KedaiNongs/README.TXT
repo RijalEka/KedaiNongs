@@ -1,3 +1,6 @@
+Download semua.
+wajib pasang database!!!
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
